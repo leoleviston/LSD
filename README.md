@@ -1,3 +1,3 @@
 An ongoing sample library
 
-leviston-studio-directory.vercel.app/
+https://leviston-studio-directory.vercel.app/
