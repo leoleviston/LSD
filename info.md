@@ -1,4 +1,5 @@
-LEVISTON STUDIO DIRECTORY | An Ongoing Sample Library
+LEVISTON STUDIO DIRECTORY
+An Ongoing Sample Library
 
 
 https://leviston-studio-directory.vercel.app<br>
