@@ -8,4 +8,4 @@ https://drive.google.com/drive/folders/1qNH4eJ3qIrYr7QPLbSJ7cQxsNusmhXyi?usp=dri
 
 To help keep this project going, make a small contribution via PayPal (https://paypal.me/floustaterecords) or INTERAC e-Transfer to renaldq@wealthsimple.me
 
-Much love <3
+xoxo
