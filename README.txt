@@ -1,5 +1,6 @@
 
-LEVISTON STUDIO DIRECTORY | A Sample Library
+LEVISTON STUDIO DIRECTORY
+A Sample Library
 
 Continuously updated to include new sounds for music producers.
 
@@ -8,4 +9,4 @@ https://drive.google.com/drive/folders/1qNH4eJ3qIrYr7QPLbSJ7cQxsNusmhXyi?usp=dri
 
 To help keep this project going, make a small contribution via PayPal (https://paypal.me/floustaterecords) or INTERAC e-Transfer to renaldq@wealthsimple.me
 
-xoxo
+One love <3
